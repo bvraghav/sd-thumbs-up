@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       18883963-317c-4f83-bb6f-b681849a7aec
+:END:
+#+TITLE: Notes
+#+SUBTITLE: Stable Diffusion with Thumbs Up
+
+All starts with [[https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_textual_inversion_training.ipynb][this colab notebook]].
